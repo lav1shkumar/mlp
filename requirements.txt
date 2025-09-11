@@ -2,4 +2,9 @@ numpy
 scikit-learn
 seaborn
 matplotlib
--e .
+flask
+streamlit
+xgboost
+joblib
+
+#-e .
